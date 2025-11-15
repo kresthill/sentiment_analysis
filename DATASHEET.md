@@ -2,7 +2,7 @@
 
 **Version:** 1.0 | **Date:** November 13, 2025  
 **Dataset:** Twitter Multi-Sentiment Emotion Dataset  
-**Creator:** Kresthill (Divinity Sound) | **Size:** 796 tweets
+**Creator:** Kresthill (OGLek Intel) | **Size:** 796 tweets
 
 ---
 
@@ -245,8 +245,8 @@ text,id,tweet_id,sentiment
 
 ## Maintenance
 
-**Maintainer:** Kresthill (Divinity Sound)  
-**Contact:** GitHub Issues, Email (to be added)
+**Maintainer:** Kresthill (OGLek intel)  
+**Contact:** https://github.com/kresthill/sentiment_analysis, datascope1000@gmail.com
 
 **Known Issues:**
 1. 75% synthetic data (High severity) → Replace with real tweets

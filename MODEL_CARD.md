@@ -1,7 +1,7 @@
 # Model Card: Twitter Multi-Class Sentiment Analysis
 
 **Version:** 1.0 | **Date:** November 13, 2025 | **Author:** Kresthill  
-**Organization:** Divinity Sound | **License:** Educational/Research Use
+**Organization:** OGLek Intel | **License:** Educational/Research Use
 
 ---
 

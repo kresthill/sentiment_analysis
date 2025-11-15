@@ -322,9 +322,9 @@ Prediction System → 5-10ms inference
 **Education:** 10Alytics (Advanced Data Science), Imperial College (ML & AI)
 
 **Connect:**
-- GitHub: [Repository link]
+- GitHub: https://github.com/kresthill/sentiment_analysis
 - Twitter: @kresthill_07
-- Email: [your-email]@example.com
+- Email: datascope1000@gmail.com
 
 **For Issues:** GitHub Issues | **Collaboration:** Open to partnerships
 

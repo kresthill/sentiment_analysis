@@ -199,21 +199,8 @@ numpy>=1.21.0, matplotlib>=3.4.0, seaborn>=0.11.0
   title = {Twitter Multi-Class Sentiment Analysis System},
   year = {2025},
   version = {1.0},
-  url = {https://github.com/kresthill/twitter-sentiment-analysis}
 }
 ```
-
----
-
-## Contact
-
-**Author:** Kresthill | Data & ML/AI Engineer  
-**Organization:** Divinity Sound  
-**Education:** 10Alytics (Advanced Data Science), Imperial College London (ML & AI)  
-**GitHub Issues:** [Repository link]  
-**Email:** [your-email]@example.com
-
----
 
 ## License
 

@@ -272,7 +272,7 @@ python-dotenv>=0.19.0
 ## 👤 Author
 
 **Kresthill**
-- Data & ML/AI Engineer at Divinity Sound
+- Data & ML/AI Engineer at OGLek Intel
 - Specialization: Advanced Data Science & ML/AI
 - Education: 10Alytics, Imperial College London
 
